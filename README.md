@@ -1,7 +1,7 @@
 # 2016fallcpa
-2016fall 計算機程式課程一甲評量倉儲
 
-https://mdecourse.github.io/2016fallcpa
 
-https://mdecourse.github.io/2016fallcpa/blog
+簡報: https://40423201.github.io/2016fallcadp_bg03/40423223
+
+網誌: https://40423201.github.io/2016fallcadp_bg03/40423223/blog/index.html
 
